@@ -1,4 +1,4 @@
-# Kibana on Stereoids
+# Kibana on Steroids
 
 Docker image extending Kibana with Sense and Marvel plugins preinstalled.
 
