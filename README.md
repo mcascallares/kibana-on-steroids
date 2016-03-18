@@ -1,6 +1,6 @@
 # Kibana on Steroids
 
-Docker image extending Kibana with Sense and Marvel plugins preinstalled.
+Docker image extending Kibana with Sense and Timelion plugins preinstalled.
 
 ## Usage
 
