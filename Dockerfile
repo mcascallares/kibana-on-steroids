@@ -1,7 +1,7 @@
-FROM kibana:4.5.0
+FROM kibana:4.5.1
 MAINTAINER Matias Cascallares <matiascas@gmail.com>
 
-LABEL co.elastic.release-date="2016-04-07"
+LABEL co.elastic.release-date="2016-05-30"
 
 ADD https://download.elasticsearch.org/kibana/timelion/timelion-latest.tar.gz /timelion.tar.gz
 ADD https://download.elasticsearch.org/elastic/sense/sense-latest.tar.gz /sense.tar.gz
